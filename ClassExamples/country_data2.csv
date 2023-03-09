@@ -1,0 +1,910 @@
+Country,Region,Variable,Value
+Afghanistan ,ASIA (EX. NEAR EAST)         ,Population,31056997
+Afghanistan ,ASIA (EX. NEAR EAST)         ,Coastline,0
+Afghanistan ,ASIA (EX. NEAR EAST)         ,Area,647500
+Afghanistan ,ASIA (EX. NEAR EAST)         ,PopDensity,48
+Albania ,EASTERN EUROPE                     ,Coastline,1.26
+Albania ,EASTERN EUROPE                     ,Population,3581632
+Albania ,EASTERN EUROPE                     ,Population,3581655
+Albania ,EASTERN EUROPE                     ,PopDensity,124.6
+Albania ,EASTERN EUROPE                     ,Area,28748
+Algeria ,NORTHERN AFRICA                    ,Area,2381740
+Algeria ,NORTHERN AFRICA                    ,Coastline,0.04
+Algeria ,NORTHERN AFRICA                    ,Population,32930091
+Algeria ,NORTHERN AFRICA                    ,PopDensity,13.8
+American Samoa ,OCEANIA                            ,PopDensity,290.4
+American Samoa ,OCEANIA                            ,Population,57794
+American Samoa ,OCEANIA                            ,Coastline,58.29
+American Samoa ,OCEANIA                            ,Area,199
+Andorra ,WESTERN EUROPE                     ,Area,468
+Andorra ,WESTERN EUROPE                     ,Coastline,0
+Andorra ,WESTERN EUROPE                     ,PopDensity,152.1
+Andorra ,WESTERN EUROPE                     ,Population,71201
+Angola ,SUB-SAHARAN AFRICA                 ,Area,1246700
+Angola ,SUB-SAHARAN AFRICA                 ,PopDensity,9.7
+Angola ,SUB-SAHARAN AFRICA                 ,Population,12127071
+Angola ,SUB-SAHARAN AFRICA                 ,Coastline,0.13
+Anguilla ,LATIN AMER. & CARIB    ,Coastline,59.8
+Anguilla ,LATIN AMER. & CARIB    ,Area,102
+Anguilla ,LATIN AMER. & CARIB    ,PopDensity,132.1
+Anguilla ,LATIN AMER. & CARIB    ,Population,13477
+Antigua & Barbuda ,LATIN AMER. & CARIB    ,Population,69108
+Antigua & Barbuda ,LATIN AMER. & CARIB    ,Coastline,34.54
+Antigua & Barbuda ,LATIN AMER. & CARIB    ,PopDensity,156
+Antigua & Barbuda ,LATIN AMER. & CARIB    ,Area,443
+Argentina ,LATIN AMER. & CARIB    ,Population,39921833
+Argentina ,LATIN AMER. & CARIB    ,Coastline,0.18
+Argentina ,LATIN AMER. & CARIB    ,Area,2766890
+Argentina ,LATIN AMER. & CARIB    ,PopDensity,14.4
+Armenia ,C.W. OF IND. STATES ,Area,29800
+Armenia ,C.W. OF IND. STATES ,Population,2976372
+Armenia ,C.W. OF IND. STATES ,PopDensity,99.9
+Armenia ,C.W. OF IND. STATES ,Coastline,0
+Aruba ,LATIN AMER. & CARIB    ,Coastline,35.49
+Aruba ,LATIN AMER. & CARIB    ,Population,71891
+Aruba ,LATIN AMER. & CARIB    ,Area,193
+Aruba ,LATIN AMER. & CARIB    ,PopDensity,372.5
+Australia ,OCEANIA                            ,Coastline,0.34
+Australia ,OCEANIA                            ,PopDensity,2.6
+Australia ,OCEANIA                            ,Population,20264082
+Australia ,OCEANIA                            ,Area,7686850
+Austria ,WESTERN EUROPE                     ,Coastline,0
+Austria ,WESTERN EUROPE                     ,Area,83870
+Austria ,WESTERN EUROPE                     ,Population,8192880
+Austria ,WESTERN EUROPE                     ,PopDensity,97.7
+Azerbaijan ,C.W. OF IND. STATES ,PopDensity,91.9
+Azerbaijan ,C.W. OF IND. STATES ,Population,7961619
+Azerbaijan ,C.W. OF IND. STATES ,Coastline,0
+Azerbaijan ,C.W. OF IND. STATES ,Area,86600
+"Bahamas, The ",LATIN AMER. & CARIB    ,PopDensity,21.8
+"Bahamas, The ",LATIN AMER. & CARIB    ,Population,303770
+"Bahamas, The ",LATIN AMER. & CARIB    ,Area,13940
+"Bahamas, The ",LATIN AMER. & CARIB    ,Coastline,25.41
+Bahrain ,NEAR EAST                          ,Coastline,24.21
+Bahrain ,NEAR EAST                          ,PopDensity,1050.5
+Bahrain ,NEAR EAST                          ,Population,698585
+Bahrain ,NEAR EAST                          ,Area,665
+Bangladesh ,ASIA (EX. NEAR EAST)         ,Area,144000
+Bangladesh ,ASIA (EX. NEAR EAST)         ,Population,147365352
+Bangladesh ,ASIA (EX. NEAR EAST)         ,Coastline,0.4
+Bangladesh ,ASIA (EX. NEAR EAST)         ,PopDensity,1023.4
+Barbados ,LATIN AMER. & CARIB    ,Area,431
+Barbados ,LATIN AMER. & CARIB    ,Population,279912
+Barbados ,LATIN AMER. & CARIB    ,PopDensity,649.5
+Barbados ,LATIN AMER. & CARIB    ,Coastline,22.51
+Belarus ,C.W. OF IND. STATES ,Coastline,0
+Belarus ,C.W. OF IND. STATES ,Population,10293011
+Belarus ,C.W. OF IND. STATES ,Area,207600
+Belarus ,C.W. OF IND. STATES ,PopDensity,49.6
+Belgium ,WESTERN EUROPE                     ,Coastline,0.22
+Belgium ,WESTERN EUROPE                     ,PopDensity,340
+Belgium ,WESTERN EUROPE                     ,Area,30528
+Belgium ,WESTERN EUROPE                     ,Population,10379067
+Belize ,LATIN AMER. & CARIB    ,Coastline,1.68
+Belize ,LATIN AMER. & CARIB    ,Area,22966
+Belize ,LATIN AMER. & CARIB    ,PopDensity,12.5
+Belize ,LATIN AMER. & CARIB    ,Population,287730
+Benin ,SUB-SAHARAN AFRICA                 ,PopDensity,69.8
+Benin ,SUB-SAHARAN AFRICA                 ,Coastline,0.11
+Benin ,SUB-SAHARAN AFRICA                 ,Area,112620
+Benin ,SUB-SAHARAN AFRICA                 ,Population,7862944
+Bermuda ,NORTHERN AMERICA                   ,Coastline,194.34
+Bermuda ,NORTHERN AMERICA                   ,PopDensity,1241
+Bermuda ,NORTHERN AMERICA                   ,Area,53
+Bermuda ,NORTHERN AMERICA                   ,Population,65773
+Bhutan ,ASIA (EX. NEAR EAST)         ,Population,2279723
+Bhutan ,ASIA (EX. NEAR EAST)         ,PopDensity,48.5
+Bhutan ,ASIA (EX. NEAR EAST)         ,Area,47000
+Bhutan ,ASIA (EX. NEAR EAST)         ,Coastline,0
+Bolivia ,LATIN AMER. & CARIB    ,Population,8989046
+Bolivia ,LATIN AMER. & CARIB    ,Coastline,0
+Bolivia ,LATIN AMER. & CARIB    ,Area,1098580
+Bolivia ,LATIN AMER. & CARIB    ,PopDensity,8.2
+Bosnia & Herzegovina ,EASTERN EUROPE                     ,Population,4498976
+Bosnia & Herzegovina ,EASTERN EUROPE                     ,PopDensity,88
+Bosnia & Herzegovina ,EASTERN EUROPE                     ,Area,51129
+Bosnia & Herzegovina ,EASTERN EUROPE                     ,Coastline,0.04
+Botswana ,SUB-SAHARAN AFRICA                 ,Coastline,0
+Botswana ,SUB-SAHARAN AFRICA                 ,Area,600370
+Botswana ,SUB-SAHARAN AFRICA                 ,PopDensity,2.7
+Botswana ,SUB-SAHARAN AFRICA                 ,Population,1639833
+Brazil ,LATIN AMER. & CARIB    ,Area,8511965
+Brazil ,LATIN AMER. & CARIB    ,Population,188078227
+Brazil ,LATIN AMER. & CARIB    ,PopDensity,22.1
+Brazil ,LATIN AMER. & CARIB    ,Coastline,0.09
+British Virgin Is. ,LATIN AMER. & CARIB    ,Area,153
+British Virgin Is. ,LATIN AMER. & CARIB    ,PopDensity,151
+British Virgin Is. ,LATIN AMER. & CARIB    ,Population,23098
+British Virgin Is. ,LATIN AMER. & CARIB    ,Coastline,52.29
+Brunei ,ASIA (EX. NEAR EAST)         ,Area,5770
+Brunei ,ASIA (EX. NEAR EAST)         ,Coastline,2.79
+Brunei ,ASIA (EX. NEAR EAST)         ,PopDensity,65.8
+Brunei ,ASIA (EX. NEAR EAST)         ,Population,379444
+Bulgaria ,EASTERN EUROPE                     ,Area,110910
+Bulgaria ,EASTERN EUROPE                     ,Coastline,0.32
+Bulgaria ,EASTERN EUROPE                     ,PopDensity,66.6
+Bulgaria ,EASTERN EUROPE                     ,Population,7385367
+Burkina Faso ,SUB-SAHARAN AFRICA                 ,Area,274200
+Burkina Faso ,SUB-SAHARAN AFRICA                 ,PopDensity,50.7
+Burkina Faso ,SUB-SAHARAN AFRICA                 ,Population,13902972
+Burkina Faso ,SUB-SAHARAN AFRICA                 ,Coastline,0
+Burma ,ASIA (EX. NEAR EAST)         ,Coastline,0.28
+Burma ,ASIA (EX. NEAR EAST)         ,Area,678500
+Burma ,ASIA (EX. NEAR EAST)         ,PopDensity,69.8
+Burma ,ASIA (EX. NEAR EAST)         ,Population,47382633
+Burundi ,SUB-SAHARAN AFRICA                 ,Area,27830
+Burundi ,SUB-SAHARAN AFRICA                 ,PopDensity,290.7
+Burundi ,SUB-SAHARAN AFRICA                 ,Coastline,0
+Burundi ,SUB-SAHARAN AFRICA                 ,Population,8090068
+Cambodia ,ASIA (EX. NEAR EAST)         ,PopDensity,76.7
+Cambodia ,ASIA (EX. NEAR EAST)         ,Population,13881427
+Cambodia ,ASIA (EX. NEAR EAST)         ,Area,181040
+Cambodia ,ASIA (EX. NEAR EAST)         ,Coastline,0.24
+Cameroon ,SUB-SAHARAN AFRICA                 ,Population,17340702
+Cameroon ,SUB-SAHARAN AFRICA                 ,PopDensity,36.5
+Cameroon ,SUB-SAHARAN AFRICA                 ,Area,475440
+Cameroon ,SUB-SAHARAN AFRICA                 ,Coastline,0.08
+Canada ,NORTHERN AMERICA                   ,Coastline,2.02
+Canada ,NORTHERN AMERICA                   ,Area,9984670
+Canada ,NORTHERN AMERICA                   ,PopDensity,3.3
+Canada ,NORTHERN AMERICA                   ,Population,33098932
+Cape Verde ,SUB-SAHARAN AFRICA                 ,PopDensity,104.4
+Cape Verde ,SUB-SAHARAN AFRICA                 ,Population,420979
+Cape Verde ,SUB-SAHARAN AFRICA                 ,Coastline,23.93
+Cape Verde ,SUB-SAHARAN AFRICA                 ,Area,4033
+Cayman Islands ,LATIN AMER. & CARIB    ,Area,262
+Cayman Islands ,LATIN AMER. & CARIB    ,Coastline,61.07
+Cayman Islands ,LATIN AMER. & CARIB    ,Population,45436
+Cayman Islands ,LATIN AMER. & CARIB    ,PopDensity,173.4
+Central African Rep. ,SUB-SAHARAN AFRICA                 ,PopDensity,6.9
+Central African Rep. ,SUB-SAHARAN AFRICA                 ,Coastline,0
+Central African Rep. ,SUB-SAHARAN AFRICA                 ,Population,4303356
+Central African Rep. ,SUB-SAHARAN AFRICA                 ,Area,622984
+Chad ,SUB-SAHARAN AFRICA                 ,Area,1284000
+Chad ,SUB-SAHARAN AFRICA                 ,Population,9944201
+Chad ,SUB-SAHARAN AFRICA                 ,PopDensity,7.7
+Chad ,SUB-SAHARAN AFRICA                 ,Coastline,0
+Chile ,LATIN AMER. & CARIB    ,PopDensity,21.3
+Chile ,LATIN AMER. & CARIB    ,Area,756950
+Chile ,LATIN AMER. & CARIB    ,Coastline,0.85
+Chile ,LATIN AMER. & CARIB    ,Population,16134219
+China ,ASIA (EX. NEAR EAST)         ,Coastline,0.15
+China ,ASIA (EX. NEAR EAST)         ,Area,9596960
+China ,ASIA (EX. NEAR EAST)         ,PopDensity,136.9
+China ,ASIA (EX. NEAR EAST)         ,Population,1313973713
+Colombia ,LATIN AMER. & CARIB    ,Area,1138910
+Colombia ,LATIN AMER. & CARIB    ,Coastline,0.28
+Colombia ,LATIN AMER. & CARIB    ,Population,43593035
+Colombia ,LATIN AMER. & CARIB    ,PopDensity,38.3
+Comoros ,SUB-SAHARAN AFRICA                 ,Coastline,15.67
+Comoros ,SUB-SAHARAN AFRICA                 ,Population,690948
+Comoros ,SUB-SAHARAN AFRICA                 ,Area,2170
+Comoros ,SUB-SAHARAN AFRICA                 ,PopDensity,318.4
+"Congo, Dem. Rep. ",SUB-SAHARAN AFRICA                 ,Coastline,0
+"Congo, Dem. Rep. ",SUB-SAHARAN AFRICA                 ,Population,62660551
+"Congo, Dem. Rep. ",SUB-SAHARAN AFRICA                 ,PopDensity,26.7
+"Congo, Dem. Rep. ",SUB-SAHARAN AFRICA                 ,Area,2345410
+"Congo, Repub. of the ",SUB-SAHARAN AFRICA                 ,Population,3702314
+"Congo, Repub. of the ",SUB-SAHARAN AFRICA                 ,PopDensity,10.8
+"Congo, Repub. of the ",SUB-SAHARAN AFRICA                 ,Coastline,0.05
+"Congo, Repub. of the ",SUB-SAHARAN AFRICA                 ,Area,342000
+Cook Islands ,OCEANIA                            ,PopDensity,89.1
+Cook Islands ,OCEANIA                            ,Population,21388
+Cook Islands ,OCEANIA                            ,Coastline,50
+Cook Islands ,OCEANIA                            ,Area,240
+Costa Rica ,LATIN AMER. & CARIB    ,PopDensity,79.8
+Costa Rica ,LATIN AMER. & CARIB    ,Population,4075261
+Costa Rica ,LATIN AMER. & CARIB    ,Coastline,2.52
+Costa Rica ,LATIN AMER. & CARIB    ,Area,51100
+Cote d'Ivoire ,SUB-SAHARAN AFRICA                 ,Coastline,0.16
+Cote d'Ivoire ,SUB-SAHARAN AFRICA                 ,Area,322460
+Cote d'Ivoire ,SUB-SAHARAN AFRICA                 ,Population,17654843
+Cote d'Ivoire ,SUB-SAHARAN AFRICA                 ,PopDensity,54.8
+Croatia ,EASTERN EUROPE                     ,Coastline,10.32
+Croatia ,EASTERN EUROPE                     ,Population,4494749
+Croatia ,EASTERN EUROPE                     ,PopDensity,79.5
+Croatia ,EASTERN EUROPE                     ,Area,56542
+Cuba ,LATIN AMER. & CARIB    ,PopDensity,102.7
+Cuba ,LATIN AMER. & CARIB    ,Population,11382820
+Cuba ,LATIN AMER. & CARIB    ,Area,110860
+Cuba ,LATIN AMER. & CARIB    ,Coastline,3.37
+Cyprus ,NEAR EAST                          ,Population,784301
+Cyprus ,NEAR EAST                          ,PopDensity,84.8
+Cyprus ,NEAR EAST                          ,Coastline,7.01
+Cyprus ,NEAR EAST                          ,Area,9250
+Czech Republic ,EASTERN EUROPE                     ,Population,10235455
+Czech Republic ,EASTERN EUROPE                     ,PopDensity,129.8
+Czech Republic ,EASTERN EUROPE                     ,Coastline,0
+Czech Republic ,EASTERN EUROPE                     ,Area,78866
+Denmark ,WESTERN EUROPE                     ,Population,5450661
+Denmark ,WESTERN EUROPE                     ,PopDensity,126.5
+Denmark ,WESTERN EUROPE                     ,Coastline,16.97
+Denmark ,WESTERN EUROPE                     ,Area,43094
+Djibouti ,SUB-SAHARAN AFRICA                 ,Area,23000
+Djibouti ,SUB-SAHARAN AFRICA                 ,Population,486530
+Djibouti ,SUB-SAHARAN AFRICA                 ,Coastline,1.37
+Djibouti ,SUB-SAHARAN AFRICA                 ,PopDensity,21.2
+Dominica ,LATIN AMER. & CARIB    ,Population,68910
+Dominica ,LATIN AMER. & CARIB    ,PopDensity,91.4
+Dominica ,LATIN AMER. & CARIB    ,Area,754
+Dominica ,LATIN AMER. & CARIB    ,Coastline,19.63
+Dominican Republic ,LATIN AMER. & CARIB    ,PopDensity,188.5
+Dominican Republic ,LATIN AMER. & CARIB    ,Area,48730
+Dominican Republic ,LATIN AMER. & CARIB    ,Population,9183984
+Dominican Republic ,LATIN AMER. & CARIB    ,Coastline,2.64
+East Timor ,ASIA (EX. NEAR EAST)         ,Coastline,4.7
+East Timor ,ASIA (EX. NEAR EAST)         ,Population,1062777
+East Timor ,ASIA (EX. NEAR EAST)         ,PopDensity,70.8
+East Timor ,ASIA (EX. NEAR EAST)         ,Area,15007
+Ecuador ,LATIN AMER. & CARIB    ,Area,283560
+Ecuador ,LATIN AMER. & CARIB    ,Coastline,0.79
+Ecuador ,LATIN AMER. & CARIB    ,PopDensity,47.8
+Ecuador ,LATIN AMER. & CARIB    ,Population,13547510
+Egypt ,NORTHERN AFRICA                    ,Area,1001450
+Egypt ,NORTHERN AFRICA                    ,PopDensity,78.8
+Egypt ,NORTHERN AFRICA                    ,Population,78887007
+Egypt ,NORTHERN AFRICA                    ,Coastline,0.24
+El Salvador ,LATIN AMER. & CARIB    ,Area,21040
+El Salvador ,LATIN AMER. & CARIB    ,PopDensity,324.3
+El Salvador ,LATIN AMER. & CARIB    ,Population,6822378
+El Salvador ,LATIN AMER. & CARIB    ,Coastline,1.46
+Equatorial Guinea ,SUB-SAHARAN AFRICA                 ,Population,540109
+Equatorial Guinea ,SUB-SAHARAN AFRICA                 ,Coastline,1.06
+Equatorial Guinea ,SUB-SAHARAN AFRICA                 ,PopDensity,19.3
+Equatorial Guinea ,SUB-SAHARAN AFRICA                 ,Area,28051
+Eritrea ,SUB-SAHARAN AFRICA                 ,Coastline,1.84
+Eritrea ,SUB-SAHARAN AFRICA                 ,Population,4786994
+Eritrea ,SUB-SAHARAN AFRICA                 ,Area,121320
+Eritrea ,SUB-SAHARAN AFRICA                 ,PopDensity,39.5
+Estonia ,BALTICS                            ,PopDensity,29.3
+Estonia ,BALTICS                            ,Population,1324333
+Estonia ,BALTICS                            ,Area,45226
+Estonia ,BALTICS                            ,Coastline,8.39
+Ethiopia ,SUB-SAHARAN AFRICA                 ,PopDensity,66.3
+Ethiopia ,SUB-SAHARAN AFRICA                 ,Area,1127127
+Ethiopia ,SUB-SAHARAN AFRICA                 ,Population,74777981
+Ethiopia ,SUB-SAHARAN AFRICA                 ,Coastline,0
+Faroe Islands ,WESTERN EUROPE                     ,Coastline,79.84
+Faroe Islands ,WESTERN EUROPE                     ,Area,1399
+Faroe Islands ,WESTERN EUROPE                     ,Population,47246
+Faroe Islands ,WESTERN EUROPE                     ,PopDensity,33.8
+Fiji ,OCEANIA                            ,PopDensity,49.6
+Fiji ,OCEANIA                            ,Population,905949
+Fiji ,OCEANIA                            ,Coastline,6.18
+Fiji ,OCEANIA                            ,Area,18270
+Finland ,WESTERN EUROPE                     ,Population,5231372
+Finland ,WESTERN EUROPE                     ,Coastline,0.37
+Finland ,WESTERN EUROPE                     ,Area,338145
+Finland ,WESTERN EUROPE                     ,PopDensity,15.5
+France ,WESTERN EUROPE                     ,Area,547030
+France ,WESTERN EUROPE                     ,Population,60876136
+France ,WESTERN EUROPE                     ,PopDensity,111.3
+France ,WESTERN EUROPE                     ,Coastline,0.63
+French Guiana ,LATIN AMER. & CARIB    ,PopDensity,2.2
+French Guiana ,LATIN AMER. & CARIB    ,Coastline,0.42
+French Guiana ,LATIN AMER. & CARIB    ,Area,91000
+French Guiana ,LATIN AMER. & CARIB    ,Population,199509
+French Polynesia ,OCEANIA                            ,Area,4167
+French Polynesia ,OCEANIA                            ,Coastline,60.6
+French Polynesia ,OCEANIA                            ,Population,274578
+French Polynesia ,OCEANIA                            ,PopDensity,65.9
+Gabon ,SUB-SAHARAN AFRICA                 ,PopDensity,5.3
+Gabon ,SUB-SAHARAN AFRICA                 ,Coastline,0.33
+Gabon ,SUB-SAHARAN AFRICA                 ,Area,267667
+Gabon ,SUB-SAHARAN AFRICA                 ,Population,1424906
+"Gambia, The ",SUB-SAHARAN AFRICA                 ,PopDensity,145.3
+"Gambia, The ",SUB-SAHARAN AFRICA                 ,Area,11300
+"Gambia, The ",SUB-SAHARAN AFRICA                 ,Coastline,0.71
+"Gambia, The ",SUB-SAHARAN AFRICA                 ,Population,1641564
+Gaza Strip ,NEAR EAST                          ,Coastline,11.11
+Gaza Strip ,NEAR EAST                          ,Population,1428757
+Gaza Strip ,NEAR EAST                          ,PopDensity,3968.8
+Gaza Strip ,NEAR EAST                          ,Area,360
+Georgia ,C.W. OF IND. STATES ,PopDensity,66.9
+Georgia ,C.W. OF IND. STATES ,Area,69700
+Georgia ,C.W. OF IND. STATES ,Coastline,0.44
+Georgia ,C.W. OF IND. STATES ,Population,4661473
+Germany ,WESTERN EUROPE                     ,PopDensity,230.9
+Germany ,WESTERN EUROPE                     ,Area,357021
+Germany ,WESTERN EUROPE                     ,Coastline,0.67
+Germany ,WESTERN EUROPE                     ,Population,82422299
+Ghana ,SUB-SAHARAN AFRICA                 ,Area,239460
+Ghana ,SUB-SAHARAN AFRICA                 ,Coastline,0.23
+Ghana ,SUB-SAHARAN AFRICA                 ,Population,22409572
+Ghana ,SUB-SAHARAN AFRICA                 ,PopDensity,93.6
+Gibraltar ,WESTERN EUROPE                     ,Coastline,171.43
+Gibraltar ,WESTERN EUROPE                     ,PopDensity,3989.7
+Gibraltar ,WESTERN EUROPE                     ,Population,27928
+Gibraltar ,WESTERN EUROPE                     ,Area,7
+Greece ,WESTERN EUROPE                     ,PopDensity,81
+Greece ,WESTERN EUROPE                     ,Coastline,10.37
+Greece ,WESTERN EUROPE                     ,Area,131940
+Greece ,WESTERN EUROPE                     ,Population,10688058
+Greenland ,NORTHERN AMERICA                   ,Area,2166086
+Greenland ,NORTHERN AMERICA                   ,Coastline,2.04
+Greenland ,NORTHERN AMERICA                   ,PopDensity,0
+Greenland ,NORTHERN AMERICA                   ,Population,56361
+Grenada ,LATIN AMER. & CARIB    ,Population,89703
+Grenada ,LATIN AMER. & CARIB    ,Area,344
+Grenada ,LATIN AMER. & CARIB    ,PopDensity,260.8
+Grenada ,LATIN AMER. & CARIB    ,Coastline,35.17
+Guadeloupe ,LATIN AMER. & CARIB    ,Coastline,17.19
+Guadeloupe ,LATIN AMER. & CARIB    ,Population,452776
+Guadeloupe ,LATIN AMER. & CARIB    ,PopDensity,254.4
+Guadeloupe ,LATIN AMER. & CARIB    ,Area,1780
+Guam ,OCEANIA                            ,Area,541
+Guam ,OCEANIA                            ,Population,171019
+Guam ,OCEANIA                            ,Coastline,23.2
+Guam ,OCEANIA                            ,PopDensity,316.1
+Guatemala ,LATIN AMER. & CARIB    ,Area,108890
+Guatemala ,LATIN AMER. & CARIB    ,Coastline,0.37
+Guatemala ,LATIN AMER. & CARIB    ,PopDensity,112.9
+Guatemala ,LATIN AMER. & CARIB    ,Population,12293545
+Guernsey ,WESTERN EUROPE                     ,Population,65409
+Guernsey ,WESTERN EUROPE                     ,Coastline,64.1
+Guernsey ,WESTERN EUROPE                     ,Area,78
+Guernsey ,WESTERN EUROPE                     ,PopDensity,838.6
+Guinea ,SUB-SAHARAN AFRICA                 ,PopDensity,39.4
+Guinea ,SUB-SAHARAN AFRICA                 ,Area,245857
+Guinea ,SUB-SAHARAN AFRICA                 ,Population,9690222
+Guinea ,SUB-SAHARAN AFRICA                 ,Coastline,0.13
+Guinea-Bissau ,SUB-SAHARAN AFRICA                 ,Area,36120
+Guinea-Bissau ,SUB-SAHARAN AFRICA                 ,Coastline,0.97
+Guinea-Bissau ,SUB-SAHARAN AFRICA                 ,Population,1442029
+Guinea-Bissau ,SUB-SAHARAN AFRICA                 ,PopDensity,39.9
+Guyana ,LATIN AMER. & CARIB    ,Population,767245
+Guyana ,LATIN AMER. & CARIB    ,PopDensity,3.6
+Guyana ,LATIN AMER. & CARIB    ,Area,214970
+Guyana ,LATIN AMER. & CARIB    ,Coastline,0.21
+Haiti ,LATIN AMER. & CARIB    ,Coastline,6.38
+Haiti ,LATIN AMER. & CARIB    ,PopDensity,299.4
+Haiti ,LATIN AMER. & CARIB    ,Area,27750
+Haiti ,LATIN AMER. & CARIB    ,Population,8308504
+Honduras ,LATIN AMER. & CARIB    ,Population,7326496
+Honduras ,LATIN AMER. & CARIB    ,Area,112090
+Honduras ,LATIN AMER. & CARIB    ,Coastline,0.73
+Honduras ,LATIN AMER. & CARIB    ,PopDensity,65.4
+Hong Kong ,ASIA (EX. NEAR EAST)         ,Area,1092
+Hong Kong ,ASIA (EX. NEAR EAST)         ,PopDensity,6355.7
+Hong Kong ,ASIA (EX. NEAR EAST)         ,Population,6940432
+Hong Kong ,ASIA (EX. NEAR EAST)         ,Coastline,67.12
+Hungary ,EASTERN EUROPE                     ,Population,9981334
+Hungary ,EASTERN EUROPE                     ,Coastline,0
+Hungary ,EASTERN EUROPE                     ,Area,93030
+Hungary ,EASTERN EUROPE                     ,PopDensity,107.3
+Iceland ,WESTERN EUROPE                     ,Coastline,4.83
+Iceland ,WESTERN EUROPE                     ,Population,299388
+Iceland ,WESTERN EUROPE                     ,PopDensity,2.9
+Iceland ,WESTERN EUROPE                     ,Area,103000
+India ,ASIA (EX. NEAR EAST)         ,Population,1095351995
+India ,ASIA (EX. NEAR EAST)         ,Coastline,0.21
+India ,ASIA (EX. NEAR EAST)         ,PopDensity,333.2
+India ,ASIA (EX. NEAR EAST)         ,Area,3287590
+Indonesia ,ASIA (EX. NEAR EAST)         ,Area,1919440
+Indonesia ,ASIA (EX. NEAR EAST)         ,PopDensity,127.9
+Indonesia ,ASIA (EX. NEAR EAST)         ,Coastline,2.85
+Indonesia ,ASIA (EX. NEAR EAST)         ,Population,245452739
+Iran ,ASIA (EX. NEAR EAST)         ,Area,1648000
+Iran ,ASIA (EX. NEAR EAST)         ,PopDensity,41.7
+Iran ,ASIA (EX. NEAR EAST)         ,Coastline,0.15
+Iran ,ASIA (EX. NEAR EAST)         ,Population,68688433
+Iraq ,NEAR EAST                          ,Area,437072
+Iraq ,NEAR EAST                          ,PopDensity,61.3
+Iraq ,NEAR EAST                          ,Coastline,0.01
+Iraq ,NEAR EAST                          ,Population,26783383
+Ireland ,WESTERN EUROPE                     ,Coastline,2.06
+Ireland ,WESTERN EUROPE                     ,Population,4062235
+Ireland ,WESTERN EUROPE                     ,PopDensity,57.8
+Ireland ,WESTERN EUROPE                     ,Area,70280
+Isle of Man ,WESTERN EUROPE                     ,Coastline,27.97
+Isle of Man ,WESTERN EUROPE                     ,PopDensity,131.9
+Isle of Man ,WESTERN EUROPE                     ,Population,75441
+Isle of Man ,WESTERN EUROPE                     ,Area,572
+Israel ,NEAR EAST                          ,Area,20770
+Israel ,NEAR EAST                          ,PopDensity,305.8
+Israel ,NEAR EAST                          ,Coastline,1.31
+Israel ,NEAR EAST                          ,Population,6352117
+Italy ,WESTERN EUROPE                     ,Coastline,2.52
+Italy ,WESTERN EUROPE                     ,Area,301230
+Italy ,WESTERN EUROPE                     ,Population,58133509
+Italy ,WESTERN EUROPE                     ,PopDensity,193
+Jamaica ,LATIN AMER. & CARIB    ,Area,10991
+Jamaica ,LATIN AMER. & CARIB    ,Coastline,9.3
+Jamaica ,LATIN AMER. & CARIB    ,Population,2758124
+Jamaica ,LATIN AMER. & CARIB    ,PopDensity,250.9
+Japan ,ASIA (EX. NEAR EAST)         ,PopDensity,337.4
+Japan ,ASIA (EX. NEAR EAST)         ,Population,127463611
+Japan ,ASIA (EX. NEAR EAST)         ,Coastline,7.87
+Japan ,ASIA (EX. NEAR EAST)         ,Area,377835
+Jersey ,WESTERN EUROPE                     ,Population,91084
+Jersey ,WESTERN EUROPE                     ,PopDensity,785.2
+Jersey ,WESTERN EUROPE                     ,Area,116
+Jersey ,WESTERN EUROPE                     ,Coastline,60.34
+Jordan ,NEAR EAST                          ,Area,92300
+Jordan ,NEAR EAST                          ,PopDensity,64
+Jordan ,NEAR EAST                          ,Population,5906760
+Jordan ,NEAR EAST                          ,Coastline,0.03
+Kazakhstan ,C.W. OF IND. STATES ,Coastline,0
+Kazakhstan ,C.W. OF IND. STATES ,Area,2717300
+Kazakhstan ,C.W. OF IND. STATES ,PopDensity,5.6
+Kazakhstan ,C.W. OF IND. STATES ,Population,15233244
+Kenya ,SUB-SAHARAN AFRICA                 ,Coastline,0.09
+Kenya ,SUB-SAHARAN AFRICA                 ,Area,582650
+Kenya ,SUB-SAHARAN AFRICA                 ,Population,34707817
+Kenya ,SUB-SAHARAN AFRICA                 ,PopDensity,59.6
+Kiribati ,OCEANIA                            ,PopDensity,130
+Kiribati ,OCEANIA                            ,Area,811
+Kiribati ,OCEANIA                            ,Coastline,140.94
+Kiribati ,OCEANIA                            ,Population,105432
+"Korea, North ",ASIA (EX. NEAR EAST)         ,Area,120540
+"Korea, North ",ASIA (EX. NEAR EAST)         ,Population,23113019
+"Korea, North ",ASIA (EX. NEAR EAST)         ,Coastline,2.07
+"Korea, North ",ASIA (EX. NEAR EAST)         ,PopDensity,191.8
+"Korea, South ",ASIA (EX. NEAR EAST)         ,Population,48846823
+"Korea, South ",ASIA (EX. NEAR EAST)         ,Coastline,2.45
+"Korea, South ",ASIA (EX. NEAR EAST)         ,PopDensity,496
+"Korea, South ",ASIA (EX. NEAR EAST)         ,Area,98480
+Kuwait ,NEAR EAST                          ,Coastline,2.8
+Kuwait ,NEAR EAST                          ,Population,2418393
+Kuwait ,NEAR EAST                          ,PopDensity,135.7
+Kuwait ,NEAR EAST                          ,Area,17820
+Kyrgyzstan ,C.W. OF IND. STATES ,Population,5213898
+Kyrgyzstan ,C.W. OF IND. STATES ,PopDensity,26.3
+Kyrgyzstan ,C.W. OF IND. STATES ,Coastline,0
+Kyrgyzstan ,C.W. OF IND. STATES ,Area,198500
+Laos ,ASIA (EX. NEAR EAST)         ,Population,6368481
+Laos ,ASIA (EX. NEAR EAST)         ,Coastline,0
+Laos ,ASIA (EX. NEAR EAST)         ,PopDensity,26.9
+Laos ,ASIA (EX. NEAR EAST)         ,Area,236800
+Latvia ,BALTICS                            ,PopDensity,35.2
+Latvia ,BALTICS                            ,Area,64589
+Latvia ,BALTICS                            ,Population,2274735
+Latvia ,BALTICS                            ,Coastline,0.82
+Lebanon ,NEAR EAST                          ,PopDensity,372.5
+Lebanon ,NEAR EAST                          ,Area,10400
+Lebanon ,NEAR EAST                          ,Coastline,2.16
+Lebanon ,NEAR EAST                          ,Population,3874050
+Lesotho ,SUB-SAHARAN AFRICA                 ,PopDensity,66.6
+Lesotho ,SUB-SAHARAN AFRICA                 ,Coastline,0
+Lesotho ,SUB-SAHARAN AFRICA                 ,Population,2022331
+Lesotho ,SUB-SAHARAN AFRICA                 ,Area,30355
+Liberia ,SUB-SAHARAN AFRICA                 ,Area,111370
+Liberia ,SUB-SAHARAN AFRICA                 ,Population,3042004
+Liberia ,SUB-SAHARAN AFRICA                 ,PopDensity,27.3
+Liberia ,SUB-SAHARAN AFRICA                 ,Coastline,0.52
+Libya ,NORTHERN AFRICA                    ,Area,1759540
+Libya ,NORTHERN AFRICA                    ,Coastline,0.1
+Libya ,NORTHERN AFRICA                    ,PopDensity,3.4
+Libya ,NORTHERN AFRICA                    ,Population,5900754
+Liechtenstein ,WESTERN EUROPE                     ,Population,33987
+Liechtenstein ,WESTERN EUROPE                     ,Area,160
+Liechtenstein ,WESTERN EUROPE                     ,Coastline,0
+Liechtenstein ,WESTERN EUROPE                     ,PopDensity,212.4
+Lithuania ,BALTICS                            ,Area,65200
+Lithuania ,BALTICS                            ,PopDensity,55
+Lithuania ,BALTICS                            ,Population,3585906
+Lithuania ,BALTICS                            ,Coastline,0.14
+Luxembourg ,WESTERN EUROPE                     ,PopDensity,183.5
+Luxembourg ,WESTERN EUROPE                     ,Area,2586
+Luxembourg ,WESTERN EUROPE                     ,Population,474413
+Luxembourg ,WESTERN EUROPE                     ,Coastline,0
+Macau ,ASIA (EX. NEAR EAST)         ,Area,28
+Macau ,ASIA (EX. NEAR EAST)         ,Population,453125
+Macau ,ASIA (EX. NEAR EAST)         ,PopDensity,16183
+Macau ,ASIA (EX. NEAR EAST)         ,Coastline,146.43
+Macedonia ,EASTERN EUROPE                     ,Area,25333
+Macedonia ,EASTERN EUROPE                     ,Coastline,0
+Macedonia ,EASTERN EUROPE                     ,PopDensity,80.9
+Macedonia ,EASTERN EUROPE                     ,Population,2050554
+Madagascar ,SUB-SAHARAN AFRICA                 ,Coastline,0.82
+Madagascar ,SUB-SAHARAN AFRICA                 ,PopDensity,31.7
+Madagascar ,SUB-SAHARAN AFRICA                 ,Area,587040
+Madagascar ,SUB-SAHARAN AFRICA                 ,Population,18595469
+Malawi ,SUB-SAHARAN AFRICA                 ,PopDensity,109.8
+Malawi ,SUB-SAHARAN AFRICA                 ,Coastline,0
+Malawi ,SUB-SAHARAN AFRICA                 ,Area,118480
+Malawi ,SUB-SAHARAN AFRICA                 ,Population,13013926
+Malaysia ,ASIA (EX. NEAR EAST)         ,Area,329750
+Malaysia ,ASIA (EX. NEAR EAST)         ,Population,24385858
+Malaysia ,ASIA (EX. NEAR EAST)         ,Coastline,1.42
+Malaysia ,ASIA (EX. NEAR EAST)         ,PopDensity,74
+Maldives ,ASIA (EX. NEAR EAST)         ,Coastline,214.67
+Maldives ,ASIA (EX. NEAR EAST)         ,Area,300
+Maldives ,ASIA (EX. NEAR EAST)         ,PopDensity,1196.7
+Maldives ,ASIA (EX. NEAR EAST)         ,Population,359008
+Mali ,SUB-SAHARAN AFRICA                 ,Coastline,0
+Mali ,SUB-SAHARAN AFRICA                 ,Area,1240000
+Mali ,SUB-SAHARAN AFRICA                 ,PopDensity,9.5
+Mali ,SUB-SAHARAN AFRICA                 ,Population,11716829
+Malta ,WESTERN EUROPE                     ,PopDensity,1266.5
+Malta ,WESTERN EUROPE                     ,Area,316
+Malta ,WESTERN EUROPE                     ,Coastline,62.28
+Malta ,WESTERN EUROPE                     ,Population,400214
+Marshall Islands ,OCEANIA                            ,Coastline,3.12
+Marshall Islands ,OCEANIA                            ,Population,60422
+Marshall Islands ,OCEANIA                            ,Area,11854
+Marshall Islands ,OCEANIA                            ,PopDensity,5.1
+Martinique ,LATIN AMER. & CARIB    ,Coastline,31.82
+Martinique ,LATIN AMER. & CARIB    ,Population,436131
+Martinique ,LATIN AMER. & CARIB    ,Area,1100
+Martinique ,LATIN AMER. & CARIB    ,PopDensity,396.5
+Mauritania ,SUB-SAHARAN AFRICA                 ,Area,1030700
+Mauritania ,SUB-SAHARAN AFRICA                 ,Population,3177388
+Mauritania ,SUB-SAHARAN AFRICA                 ,PopDensity,3.1
+Mauritania ,SUB-SAHARAN AFRICA                 ,Coastline,0.07
+Mauritius ,SUB-SAHARAN AFRICA                 ,Area,2040
+Mauritius ,SUB-SAHARAN AFRICA                 ,Population,1240827
+Mauritius ,SUB-SAHARAN AFRICA                 ,PopDensity,608.3
+Mauritius ,SUB-SAHARAN AFRICA                 ,Coastline,8.68
+Mayotte ,SUB-SAHARAN AFRICA                 ,Coastline,49.52
+Mayotte ,SUB-SAHARAN AFRICA                 ,Area,374
+Mayotte ,SUB-SAHARAN AFRICA                 ,Population,201234
+Mayotte ,SUB-SAHARAN AFRICA                 ,PopDensity,538.1
+Mexico ,LATIN AMER. & CARIB    ,Coastline,0.47
+Mexico ,LATIN AMER. & CARIB    ,Area,1972550
+Mexico ,LATIN AMER. & CARIB    ,PopDensity,54.5
+Mexico ,LATIN AMER. & CARIB    ,Population,107449525
+"Micronesia, Fed. St. ",OCEANIA                            ,Coastline,870.66
+"Micronesia, Fed. St. ",OCEANIA                            ,Population,108004
+"Micronesia, Fed. St. ",OCEANIA                            ,PopDensity,153.9
+"Micronesia, Fed. St. ",OCEANIA                            ,Area,702
+Moldova ,C.W. OF IND. STATES ,Population,4466706
+Moldova ,C.W. OF IND. STATES ,Coastline,0
+Moldova ,C.W. OF IND. STATES ,PopDensity,132
+Moldova ,C.W. OF IND. STATES ,Area,33843
+Monaco ,WESTERN EUROPE                     ,Population,32543
+Monaco ,WESTERN EUROPE                     ,PopDensity,16271.5
+Monaco ,WESTERN EUROPE                     ,Area,2
+Monaco ,WESTERN EUROPE                     ,Coastline,205
+Mongolia ,ASIA (EX. NEAR EAST)         ,Area,1564116
+Mongolia ,ASIA (EX. NEAR EAST)         ,PopDensity,1.8
+Mongolia ,ASIA (EX. NEAR EAST)         ,Coastline,0
+Mongolia ,ASIA (EX. NEAR EAST)         ,Population,2832224
+Montserrat ,LATIN AMER. & CARIB    ,Coastline,39.22
+Montserrat ,LATIN AMER. & CARIB    ,PopDensity,92.5
+Montserrat ,LATIN AMER. & CARIB    ,Area,102
+Montserrat ,LATIN AMER. & CARIB    ,Population,9439
+Morocco ,NORTHERN AFRICA                    ,Coastline,0.41
+Morocco ,NORTHERN AFRICA                    ,Area,446550
+Morocco ,NORTHERN AFRICA                    ,Population,33241259
+Morocco ,NORTHERN AFRICA                    ,PopDensity,74.4
+Mozambique ,SUB-SAHARAN AFRICA                 ,Population,19686505
+Mozambique ,SUB-SAHARAN AFRICA                 ,Area,801590
+Mozambique ,SUB-SAHARAN AFRICA                 ,PopDensity,24.6
+Mozambique ,SUB-SAHARAN AFRICA                 ,Coastline,0.31
+N. Mariana Islands ,OCEANIA                            ,PopDensity,172.9
+N. Mariana Islands ,OCEANIA                            ,Area,477
+N. Mariana Islands ,OCEANIA                            ,Population,82459
+N. Mariana Islands ,OCEANIA                            ,Coastline,310.69
+Namibia ,SUB-SAHARAN AFRICA                 ,Population,2044147
+Namibia ,SUB-SAHARAN AFRICA                 ,Coastline,0.19
+Namibia ,SUB-SAHARAN AFRICA                 ,PopDensity,2.5
+Namibia ,SUB-SAHARAN AFRICA                 ,Area,825418
+Nauru ,OCEANIA                            ,PopDensity,632.7
+Nauru ,OCEANIA                            ,Area,21
+Nauru ,OCEANIA                            ,Population,13287
+Nauru ,OCEANIA                            ,Coastline,142.86
+Nepal ,ASIA (EX. NEAR EAST)         ,Coastline,0
+Nepal ,ASIA (EX. NEAR EAST)         ,PopDensity,192.2
+Nepal ,ASIA (EX. NEAR EAST)         ,Area,147181
+Nepal ,ASIA (EX. NEAR EAST)         ,Population,28287147
+Netherlands ,WESTERN EUROPE                     ,Population,16491461
+Netherlands ,WESTERN EUROPE                     ,Coastline,1.09
+Netherlands ,WESTERN EUROPE                     ,Area,41526
+Netherlands ,WESTERN EUROPE                     ,PopDensity,397.1
+Netherlands Antilles ,LATIN AMER. & CARIB    ,PopDensity,231
+Netherlands Antilles ,LATIN AMER. & CARIB    ,Population,221736
+Netherlands Antilles ,LATIN AMER. & CARIB    ,Area,960
+Netherlands Antilles ,LATIN AMER. & CARIB    ,Coastline,37.92
+New Caledonia ,OCEANIA                            ,Coastline,11.83
+New Caledonia ,OCEANIA                            ,Area,19060
+New Caledonia ,OCEANIA                            ,Population,219246
+New Caledonia ,OCEANIA                            ,PopDensity,11.5
+New Zealand ,OCEANIA                            ,PopDensity,15.2
+New Zealand ,OCEANIA                            ,Area,268680
+New Zealand ,OCEANIA                            ,Population,4076140
+New Zealand ,OCEANIA                            ,Coastline,5.63
+Nicaragua ,LATIN AMER. & CARIB    ,Population,5570129
+Nicaragua ,LATIN AMER. & CARIB    ,PopDensity,43
+Nicaragua ,LATIN AMER. & CARIB    ,Area,129494
+Nicaragua ,LATIN AMER. & CARIB    ,Coastline,0.7
+Niger ,SUB-SAHARAN AFRICA                 ,Population,12525094
+Niger ,SUB-SAHARAN AFRICA                 ,Area,1267000
+Niger ,SUB-SAHARAN AFRICA                 ,PopDensity,9.9
+Niger ,SUB-SAHARAN AFRICA                 ,Coastline,0
+Nigeria ,SUB-SAHARAN AFRICA                 ,PopDensity,142.7
+Nigeria ,SUB-SAHARAN AFRICA                 ,Coastline,0.09
+Nigeria ,SUB-SAHARAN AFRICA                 ,Area,923768
+Nigeria ,SUB-SAHARAN AFRICA                 ,Population,131859731
+Norway ,WESTERN EUROPE                     ,Population,4610820
+Norway ,WESTERN EUROPE                     ,Area,323802
+Norway ,WESTERN EUROPE                     ,Coastline,7.77
+Norway ,WESTERN EUROPE                     ,PopDensity,14.2
+Oman ,NEAR EAST                          ,PopDensity,14.6
+Oman ,NEAR EAST                          ,Coastline,0.98
+Oman ,NEAR EAST                          ,Population,3102229
+Oman ,NEAR EAST                          ,Area,212460
+Pakistan ,ASIA (EX. NEAR EAST)         ,PopDensity,206.2
+Pakistan ,ASIA (EX. NEAR EAST)         ,Area,803940
+Pakistan ,ASIA (EX. NEAR EAST)         ,Population,165803560
+Pakistan ,ASIA (EX. NEAR EAST)         ,Coastline,0.13
+Palau ,OCEANIA                            ,PopDensity,44.9
+Palau ,OCEANIA                            ,Coastline,331.66
+Palau ,OCEANIA                            ,Population,20579
+Palau ,OCEANIA                            ,Area,458
+Panama ,LATIN AMER. & CARIB    ,Population,3191319
+Panama ,LATIN AMER. & CARIB    ,Area,78200
+Panama ,LATIN AMER. & CARIB    ,Coastline,3.18
+Panama ,LATIN AMER. & CARIB    ,PopDensity,40.8
+Papua New Guinea ,OCEANIA                            ,PopDensity,12.3
+Papua New Guinea ,OCEANIA                            ,Coastline,1.11
+Papua New Guinea ,OCEANIA                            ,Population,5670544
+Papua New Guinea ,OCEANIA                            ,Area,462840
+Paraguay ,LATIN AMER. & CARIB    ,Population,6506464
+Paraguay ,LATIN AMER. & CARIB    ,PopDensity,16
+Paraguay ,LATIN AMER. & CARIB    ,Area,406750
+Paraguay ,LATIN AMER. & CARIB    ,Coastline,0
+Peru ,LATIN AMER. & CARIB    ,Coastline,0.19
+Peru ,LATIN AMER. & CARIB    ,PopDensity,22
+Peru ,LATIN AMER. & CARIB    ,Population,28302603
+Peru ,LATIN AMER. & CARIB    ,Area,1285220
+Philippines ,ASIA (EX. NEAR EAST)         ,Population,89468677
+Philippines ,ASIA (EX. NEAR EAST)         ,PopDensity,298.2
+Philippines ,ASIA (EX. NEAR EAST)         ,Coastline,12.1
+Philippines ,ASIA (EX. NEAR EAST)         ,Area,300000
+Poland ,EASTERN EUROPE                     ,Coastline,0.16
+Poland ,EASTERN EUROPE                     ,Population,38536869
+Poland ,EASTERN EUROPE                     ,Area,312685
+Poland ,EASTERN EUROPE                     ,PopDensity,123.3
+Portugal ,WESTERN EUROPE                     ,Population,10605870
+Portugal ,WESTERN EUROPE                     ,PopDensity,114.8
+Portugal ,WESTERN EUROPE                     ,Coastline,1.94
+Portugal ,WESTERN EUROPE                     ,Area,92391
+Puerto Rico ,LATIN AMER. & CARIB    ,Area,13790
+Puerto Rico ,LATIN AMER. & CARIB    ,Coastline,3.63
+Puerto Rico ,LATIN AMER. & CARIB    ,Population,3927188
+Puerto Rico ,LATIN AMER. & CARIB    ,PopDensity,284.8
+Qatar ,NEAR EAST                          ,Population,885359
+Qatar ,NEAR EAST                          ,Coastline,4.92
+Qatar ,NEAR EAST                          ,PopDensity,77.4
+Qatar ,NEAR EAST                          ,Area,11437
+Reunion ,SUB-SAHARAN AFRICA                 ,PopDensity,312.9
+Reunion ,SUB-SAHARAN AFRICA                 ,Area,2517
+Reunion ,SUB-SAHARAN AFRICA                 ,Coastline,8.22
+Reunion ,SUB-SAHARAN AFRICA                 ,Population,787584
+Romania ,EASTERN EUROPE                     ,PopDensity,93.9
+Romania ,EASTERN EUROPE                     ,Area,237500
+Romania ,EASTERN EUROPE                     ,Coastline,0.09
+Romania ,EASTERN EUROPE                     ,Population,22303552
+Russia ,C.W. OF IND. STATES ,Area,17075200
+Russia ,C.W. OF IND. STATES ,Coastline,0.22
+Russia ,C.W. OF IND. STATES ,Population,142893540
+Russia ,C.W. OF IND. STATES ,PopDensity,8.4
+Rwanda ,SUB-SAHARAN AFRICA                 ,Area,26338
+Rwanda ,SUB-SAHARAN AFRICA                 ,Population,8648248
+Rwanda ,SUB-SAHARAN AFRICA                 ,Coastline,0
+Rwanda ,SUB-SAHARAN AFRICA                 ,PopDensity,328.4
+Saint Helena ,SUB-SAHARAN AFRICA                 ,Population,7502
+Saint Helena ,SUB-SAHARAN AFRICA                 ,Coastline,14.53
+Saint Helena ,SUB-SAHARAN AFRICA                 ,Area,413
+Saint Helena ,SUB-SAHARAN AFRICA                 ,PopDensity,18.2
+Saint Kitts & Nevis ,LATIN AMER. & CARIB    ,Area,261
+Saint Kitts & Nevis ,LATIN AMER. & CARIB    ,Coastline,51.72
+Saint Kitts & Nevis ,LATIN AMER. & CARIB    ,Population,39129
+Saint Kitts & Nevis ,LATIN AMER. & CARIB    ,PopDensity,149.9
+Saint Lucia ,LATIN AMER. & CARIB    ,Population,168458
+Saint Lucia ,LATIN AMER. & CARIB    ,Area,616
+Saint Lucia ,LATIN AMER. & CARIB    ,Coastline,25.65
+Saint Lucia ,LATIN AMER. & CARIB    ,PopDensity,273.5
+Saint Vincent and the Grenadines ,LATIN AMER. & CARIB    ,Coastline,21.59
+Saint Vincent and the Grenadines ,LATIN AMER. & CARIB    ,PopDensity,303
+Saint Vincent and the Grenadines ,LATIN AMER. & CARIB    ,Population,117848
+Saint Vincent and the Grenadines ,LATIN AMER. & CARIB    ,Area,389
+Samoa ,OCEANIA                            ,Area,2944
+Samoa ,OCEANIA                            ,Coastline,13.69
+Samoa ,OCEANIA                            ,PopDensity,60.1
+Samoa ,OCEANIA                            ,Population,176908
+San Marino ,WESTERN EUROPE                     ,PopDensity,479.5
+San Marino ,WESTERN EUROPE                     ,Population,29251
+San Marino ,WESTERN EUROPE                     ,Area,61
+San Marino ,WESTERN EUROPE                     ,Coastline,0
+Sao Tome & Principe ,SUB-SAHARAN AFRICA                 ,PopDensity,193.2
+Sao Tome & Principe ,SUB-SAHARAN AFRICA                 ,Population,193413
+Sao Tome & Principe ,SUB-SAHARAN AFRICA                 ,Area,1001
+Sao Tome & Principe ,SUB-SAHARAN AFRICA                 ,Coastline,20.88
+Saudi Arabia ,NEAR EAST                          ,Area,1960582
+Saudi Arabia ,NEAR EAST                          ,Coastline,0.13
+Saudi Arabia ,NEAR EAST                          ,Population,27019731
+Saudi Arabia ,NEAR EAST                          ,PopDensity,13.8
+Senegal ,SUB-SAHARAN AFRICA                 ,Area,196190
+Senegal ,SUB-SAHARAN AFRICA                 ,Coastline,0.27
+Senegal ,SUB-SAHARAN AFRICA                 ,PopDensity,61.1
+Senegal ,SUB-SAHARAN AFRICA                 ,Population,11987121
+Serbia ,EASTERN EUROPE                     ,Population,9396411
+Serbia ,EASTERN EUROPE                     ,Area,88361
+Serbia ,EASTERN EUROPE                     ,PopDensity,106.3
+Serbia ,EASTERN EUROPE                     ,Coastline,0
+Seychelles ,SUB-SAHARAN AFRICA                 ,Population,81541
+Seychelles ,SUB-SAHARAN AFRICA                 ,Area,455
+Seychelles ,SUB-SAHARAN AFRICA                 ,Coastline,107.91
+Seychelles ,SUB-SAHARAN AFRICA                 ,PopDensity,179.2
+Sierra Leone ,SUB-SAHARAN AFRICA                 ,Area,71740
+Sierra Leone ,SUB-SAHARAN AFRICA                 ,Coastline,0.56
+Sierra Leone ,SUB-SAHARAN AFRICA                 ,PopDensity,83.7
+Sierra Leone ,SUB-SAHARAN AFRICA                 ,Population,6005250
+Singapore ,ASIA (EX. NEAR EAST)         ,Coastline,27.85
+Singapore ,ASIA (EX. NEAR EAST)         ,PopDensity,6482.2
+Singapore ,ASIA (EX. NEAR EAST)         ,Population,4492150
+Singapore ,ASIA (EX. NEAR EAST)         ,Area,693
+Slovakia ,EASTERN EUROPE                     ,Population,5439448
+Slovakia ,EASTERN EUROPE                     ,Coastline,0
+Slovakia ,EASTERN EUROPE                     ,Area,48845
+Slovakia ,EASTERN EUROPE                     ,PopDensity,111.4
+Slovenia ,EASTERN EUROPE                     ,Coastline,0.23
+Slovenia ,EASTERN EUROPE                     ,Area,20273
+Slovenia ,EASTERN EUROPE                     ,Population,2010347
+Slovenia ,EASTERN EUROPE                     ,PopDensity,99.2
+Solomon Islands ,OCEANIA                            ,Coastline,18.67
+Solomon Islands ,OCEANIA                            ,Population,552438
+Solomon Islands ,OCEANIA                            ,Area,28450
+Solomon Islands ,OCEANIA                            ,PopDensity,19.4
+Somalia ,SUB-SAHARAN AFRICA                 ,Coastline,0.47
+Somalia ,SUB-SAHARAN AFRICA                 ,Population,8863338
+Somalia ,SUB-SAHARAN AFRICA                 ,Area,637657
+Somalia ,SUB-SAHARAN AFRICA                 ,PopDensity,13.9
+South Africa ,SUB-SAHARAN AFRICA                 ,PopDensity,36.2
+South Africa ,SUB-SAHARAN AFRICA                 ,Coastline,0.23
+South Africa ,SUB-SAHARAN AFRICA                 ,Population,44187637
+South Africa ,SUB-SAHARAN AFRICA                 ,Area,1219912
+Spain ,WESTERN EUROPE                     ,PopDensity,80
+Spain ,WESTERN EUROPE                     ,Area,504782
+Spain ,WESTERN EUROPE                     ,Population,40397842
+Spain ,WESTERN EUROPE                     ,Coastline,0.98
+Sri Lanka ,ASIA (EX. NEAR EAST)         ,PopDensity,308.2
+Sri Lanka ,ASIA (EX. NEAR EAST)         ,Population,20222240
+Sri Lanka ,ASIA (EX. NEAR EAST)         ,Area,65610
+Sri Lanka ,ASIA (EX. NEAR EAST)         ,Coastline,2.04
+St Pierre & Miquelon ,NORTHERN AMERICA                   ,Area,242
+St Pierre & Miquelon ,NORTHERN AMERICA                   ,PopDensity,29
+St Pierre & Miquelon ,NORTHERN AMERICA                   ,Population,7026
+St Pierre & Miquelon ,NORTHERN AMERICA                   ,Coastline,49.59
+Sudan ,SUB-SAHARAN AFRICA                 ,Area,2505810
+Sudan ,SUB-SAHARAN AFRICA                 ,PopDensity,16.5
+Sudan ,SUB-SAHARAN AFRICA                 ,Population,41236378
+Sudan ,SUB-SAHARAN AFRICA                 ,Coastline,0.03
+Suriname ,LATIN AMER. & CARIB    ,PopDensity,2.7
+Suriname ,LATIN AMER. & CARIB    ,Population,439117
+Suriname ,LATIN AMER. & CARIB    ,Coastline,0.24
+Suriname ,LATIN AMER. & CARIB    ,Area,163270
+Swaziland ,SUB-SAHARAN AFRICA                 ,Coastline,0
+Swaziland ,SUB-SAHARAN AFRICA                 ,Population,1136334
+Swaziland ,SUB-SAHARAN AFRICA                 ,Area,17363
+Swaziland ,SUB-SAHARAN AFRICA                 ,PopDensity,65.5
+Sweden ,WESTERN EUROPE                     ,Area,449964
+Sweden ,WESTERN EUROPE                     ,Population,9016596
+Sweden ,WESTERN EUROPE                     ,PopDensity,20
+Sweden ,WESTERN EUROPE                     ,Coastline,0.72
+Switzerland ,WESTERN EUROPE                     ,PopDensity,182.2
+Switzerland ,WESTERN EUROPE                     ,Coastline,0
+Switzerland ,WESTERN EUROPE                     ,Area,41290
+Switzerland ,WESTERN EUROPE                     ,Population,7523934
+Syria ,NEAR EAST                          ,PopDensity,102
+Syria ,NEAR EAST                          ,Area,185180
+Syria ,NEAR EAST                          ,Coastline,0.1
+Syria ,NEAR EAST                          ,Population,18881361
+Taiwan ,ASIA (EX. NEAR EAST)         ,Population,23036087
+Taiwan ,ASIA (EX. NEAR EAST)         ,Area,35980
+Taiwan ,ASIA (EX. NEAR EAST)         ,Coastline,4.35
+Taiwan ,ASIA (EX. NEAR EAST)         ,PopDensity,640.3
+Tajikistan ,C.W. OF IND. STATES ,PopDensity,51.2
+Tajikistan ,C.W. OF IND. STATES ,Population,7320815
+Tajikistan ,C.W. OF IND. STATES ,Area,143100
+Tajikistan ,C.W. OF IND. STATES ,Coastline,0
+Tanzania ,SUB-SAHARAN AFRICA                 ,Area,945087
+Tanzania ,SUB-SAHARAN AFRICA                 ,Population,37445392
+Tanzania ,SUB-SAHARAN AFRICA                 ,PopDensity,39.6
+Tanzania ,SUB-SAHARAN AFRICA                 ,Coastline,0.15
+Thailand ,ASIA (EX. NEAR EAST)         ,Coastline,0.63
+Thailand ,ASIA (EX. NEAR EAST)         ,PopDensity,125.7
+Thailand ,ASIA (EX. NEAR EAST)         ,Area,514000
+Thailand ,ASIA (EX. NEAR EAST)         ,Population,64631595
+Togo ,SUB-SAHARAN AFRICA                 ,Coastline,0.1
+Togo ,SUB-SAHARAN AFRICA                 ,PopDensity,97.7
+Togo ,SUB-SAHARAN AFRICA                 ,Population,5548702
+Togo ,SUB-SAHARAN AFRICA                 ,Area,56785
+Tonga ,OCEANIA                            ,PopDensity,153.3
+Tonga ,OCEANIA                            ,Coastline,56.02
+Tonga ,OCEANIA                            ,Area,748
+Tonga ,OCEANIA                            ,Population,114689
+Trinidad & Tobago ,LATIN AMER. & CARIB    ,PopDensity,207.9
+Trinidad & Tobago ,LATIN AMER. & CARIB    ,Population,1065842
+Trinidad & Tobago ,LATIN AMER. & CARIB    ,Coastline,7.06
+Trinidad & Tobago ,LATIN AMER. & CARIB    ,Area,5128
+Tunisia ,NORTHERN AFRICA                    ,Population,10175014
+Tunisia ,NORTHERN AFRICA                    ,Coastline,0.7
+Tunisia ,NORTHERN AFRICA                    ,PopDensity,62.2
+Tunisia ,NORTHERN AFRICA                    ,Area,163610
+Turkey ,NEAR EAST                          ,Coastline,0.92
+Turkey ,NEAR EAST                          ,Area,780580
+Turkey ,NEAR EAST                          ,Population,70413958
+Turkey ,NEAR EAST                          ,PopDensity,90.2
+Turkmenistan ,C.W. OF IND. STATES ,Coastline,0
+Turkmenistan ,C.W. OF IND. STATES ,Area,488100
+Turkmenistan ,C.W. OF IND. STATES ,Population,5042920
+Turkmenistan ,C.W. OF IND. STATES ,PopDensity,10.3
+Turks & Caicos Is ,LATIN AMER. & CARIB    ,Coastline,90.47
+Turks & Caicos Is ,LATIN AMER. & CARIB    ,Population,21152
+Turks & Caicos Is ,LATIN AMER. & CARIB    ,Area,430
+Turks & Caicos Is ,LATIN AMER. & CARIB    ,PopDensity,49.2
+Tuvalu ,OCEANIA                            ,Area,26
+Tuvalu ,OCEANIA                            ,PopDensity,454.2
+Tuvalu ,OCEANIA                            ,Population,11810
+Tuvalu ,OCEANIA                            ,Coastline,92.31
+Uganda ,SUB-SAHARAN AFRICA                 ,PopDensity,119.5
+Uganda ,SUB-SAHARAN AFRICA                 ,Area,236040
+Uganda ,SUB-SAHARAN AFRICA                 ,Population,28195754
+Uganda ,SUB-SAHARAN AFRICA                 ,Coastline,0
+Ukraine ,C.W. OF IND. STATES ,Coastline,0.46
+Ukraine ,C.W. OF IND. STATES ,Area,603700
+Ukraine ,C.W. OF IND. STATES ,PopDensity,77.4
+Ukraine ,C.W. OF IND. STATES ,Population,46710816
+United Arab Emirates ,NEAR EAST                          ,Coastline,1.59
+United Arab Emirates ,NEAR EAST                          ,PopDensity,31.4
+United Arab Emirates ,NEAR EAST                          ,Area,82880
+United Arab Emirates ,NEAR EAST                          ,Population,2602713
+United Kingdom ,WESTERN EUROPE                     ,Coastline,5.08
+United Kingdom ,WESTERN EUROPE                     ,Area,244820
+United Kingdom ,WESTERN EUROPE                     ,PopDensity,247.6
+United Kingdom ,WESTERN EUROPE                     ,Population,60609153
+United States ,NORTHERN AMERICA                   ,Population,298444215
+United States ,NORTHERN AMERICA                   ,Area,9631420
+United States ,NORTHERN AMERICA                   ,PopDensity,31
+United States ,NORTHERN AMERICA                   ,Coastline,0.21
+Uruguay ,LATIN AMER. & CARIB    ,Population,3431932
+Uruguay ,LATIN AMER. & CARIB    ,Area,176220
+Uruguay ,LATIN AMER. & CARIB    ,PopDensity,19.5
+Uruguay ,LATIN AMER. & CARIB    ,Coastline,0.37
+Uzbekistan ,C.W. OF IND. STATES ,PopDensity,61
+Uzbekistan ,C.W. OF IND. STATES ,Coastline,0
+Uzbekistan ,C.W. OF IND. STATES ,Population,27307134
+Uzbekistan ,C.W. OF IND. STATES ,Area,447400
+Vanuatu ,OCEANIA                            ,PopDensity,17.1
+Vanuatu ,OCEANIA                            ,Population,208869
+Vanuatu ,OCEANIA                            ,Area,12200
+Vanuatu ,OCEANIA                            ,Coastline,20.72
+Venezuela ,LATIN AMER. & CARIB    ,Area,912050
+Venezuela ,LATIN AMER. & CARIB    ,Population,25730435
+Venezuela ,LATIN AMER. & CARIB    ,Coastline,0.31
+Venezuela ,LATIN AMER. & CARIB    ,PopDensity,28.2
+Vietnam ,ASIA (EX. NEAR EAST)         ,Area,329560
+Vietnam ,ASIA (EX. NEAR EAST)         ,PopDensity,256.1
+Vietnam ,ASIA (EX. NEAR EAST)         ,Population,84402966
+Vietnam ,ASIA (EX. NEAR EAST)         ,Coastline,1.05
+Virgin Islands ,LATIN AMER. & CARIB    ,PopDensity,56.9
+Virgin Islands ,LATIN AMER. & CARIB    ,Population,108605
+Virgin Islands ,LATIN AMER. & CARIB    ,Coastline,9.84
+Virgin Islands ,LATIN AMER. & CARIB    ,Area,1910
+Wallis and Futuna ,OCEANIA                            ,Area,274
+Wallis and Futuna ,OCEANIA                            ,Coastline,47.08
+Wallis and Futuna ,OCEANIA                            ,PopDensity,58.5
+Wallis and Futuna ,OCEANIA                            ,Population,16025
+West Bank ,NEAR EAST                          ,Coastline,0
+West Bank ,NEAR EAST                          ,PopDensity,419.9
+West Bank ,NEAR EAST                          ,Area,5860
+West Bank ,NEAR EAST                          ,Population,2460492
+Western Sahara ,NORTHERN AFRICA                    ,Coastline,0.42
+Western Sahara ,NORTHERN AFRICA                    ,Population,273008
+Western Sahara ,NORTHERN AFRICA                    ,PopDensity,1
+Western Sahara ,NORTHERN AFRICA                    ,Area,266000
+Yemen ,NEAR EAST                          ,PopDensity,40.6
+Yemen ,NEAR EAST                          ,Coastline,0.36
+Yemen ,NEAR EAST                          ,Population,21456188
+Yemen ,NEAR EAST                          ,Area,527970
+Zambia ,SUB-SAHARAN AFRICA                 ,PopDensity,15.3
+Zambia ,SUB-SAHARAN AFRICA                 ,Coastline,0
+Zambia ,SUB-SAHARAN AFRICA                 ,Area,752614
+Zambia ,SUB-SAHARAN AFRICA                 ,Population,11502010
+Zimbabwe ,SUB-SAHARAN AFRICA                 ,PopDensity,31.3
+Zimbabwe ,SUB-SAHARAN AFRICA                 ,Area,390580
+Zimbabwe ,SUB-SAHARAN AFRICA                 ,Population,12236805
+Zimbabwe ,SUB-SAHARAN AFRICA                 ,Coastline,0
