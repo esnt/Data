@@ -1,2 +1,88 @@
-This data is a subset of oceanic data from The California Cooperative Oceanic Fisheries Investigations.
-(https://calcofi.com/)
+This data is a subset of oceanographic data from The California Cooperative Oceanic Fisheries Investigations.
+(https://calcofi.org/data/oceanographic-data/bottle-database/)
+
+T_degC: Water temperature in degrees Celsius
+Salnty: Salinity (Practical Salinity Scale 1978)
+O2ml_L: Milliliters oxygen per liter of seawater
+O2Sat: Oxygen percent saturation
+Quarter: Quarter of the year
+Year: Year
+Month: Month
+Distance: Nautical miles from coast intercept, calculated from est lat and Lon
+Lat_Dec: Observed Latitude in decimal degrees
+Lon_Dec: Observed Longitude in decimal degrees
+Bottom_D: Bottom depth in meters
+Wind_Spd: Wind Speed in knots
+Barometer: Millibars to the tenths
+Dry_T: Dry Air Temperature from a Sling Psychrometer in degrees Celcius
+Wet_T: Wet Air Temperature from a Sling Psychrometer in degrees Celcius
+Wea: 1 Digit Code from The World Meteorological Organization, Code source WMO 4501 (see below)
+Cloud_Typ: 1 Digit Code from The World Meteorological Organization, Code source WMO 0500 (see below)
+Cloud_Amt: 1 Digit Code from The World Meteorological Organization, Code source WMO 2700 (see below)
+Visibility: 1 Digit Code from The World Meteorological Organization, Code source WMO 4300 (see below)
+Depthm: Depth of sample in meters
+
+
+(Information below from https://www.jodc.go.jp/data_format/weather-code.html)
+
+Present weather (WMO 4501)
+WMO Code 4501 for recording present weather
+Code	Description
+0	Clear(No cloud at any level)
+1	Partly cloudy(Scattered or broken)
+2	Continuous layer(s) of blowing snow
+3	Sandstorm, duststorm, or blowing snow
+4	Fog, thick dust or haze
+5	Drizzle
+6	Rain
+7	Snow, or rain and snow mixed
+8	Shower(s)
+9	Thunderstorm(s)
+
+
+
+Cloud type (Genus) (WMO 0500)
+WMO Code 0500 for recording cloud type (genus)
+Code	
+0	Cirrus ----- Ci
+1	Cirrocumulus ----- Cc
+2	Cirrostratus ----- Cs
+3	Altocumulus ----- Ac
+4	Altostratus ----- As
+5	Nimbostratus ----- Ns
+6	Stratocumulus ----- Sc
+7	Stratus ----- St
+8	Cumulus ----- Cu
+9	Cumulonimbus ----- Cb
+X	Cloud not visible owing to darkness, fog, duststorm, sandstorm, or other analogous phenomena
+
+
+Cloud amount (WMO 2700)
+WMO Code 2700 for recording cloud amount
+Code		
+0	Zero	Zero
+1	1 okta or less, but not zero	1/10 or less, but not zero
+2	2 oktas	2/10 to 3/10
+3	3 oktas	4/10
+4	4 oktas	5/10
+5	5 oktas	6/10
+6	6 oktas	7/10 to 8/10
+7	7 oktas or more, but not 8 oktas	9/10 or more, but not 10/10
+8	8 oktas	10/10
+9	Sky obscured, or cloud amount cannot be estimated.	
+For more information about Oktas, see https://en.wikipedia.org/wiki/Okta
+
+Visibility (WMO 4300)
+WMO Code 4300 for recording visibility at surface
+Code	
+0	Less than 50m	(Less than 55 yards)
+1	50 - 200m	(Approx. 55 - 220 yards)
+2	200 - 500m	(Approx. 220 - 550 yards)
+3	500 - 1000m	(Approx. 550 yards - 5/8 n.m.)
+4	1 - 2km	(Approx. 5/8 - 1 n.m.)
+5	2 - 4km	(Approx. 1 - 2 n.m.)
+6	4 - 10km	(Approx. 2 - 6 n.m.)
+7	10 - 20km	(Approx. 6 - 12 n.m.)
+8	20 - 50km	(Approx. 12 - 30 n.m.)
+9	50km or more	(30 n.m. or more)
+
